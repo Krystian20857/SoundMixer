@@ -19,6 +19,7 @@ Sound Mixer Software is responsible for handling volume, buttons, device, and ma
 ![Sound Mixer Software Sliders](https://raw.githubusercontent.com/Krystian20857/SoundMixerSoftware/master/github/images/software_sliders.png)
 ![Sound Mixer Software Buttons](https://raw.githubusercontent.com/Krystian20857/SoundMixerSoftware/master/github/images/software_buttons.png)
 ![Sound Mixer Software Devices](https://raw.githubusercontent.com/Krystian20857/SoundMixerSoftware/master/github/images/software_devices.png)
+![Sound Mixer Software Devices](https://raw.githubusercontent.com/Krystian20857/SoundMixerSoftware/master/github/images/software_addsession.png)
 
 ## Firmware
 The task of firmware is read values from sliders and buttons and send data through serial connection. Sound Mixer Firmware is piece of arduino code practically compatible with every arduino-based device. Firmware is fully customizable and allows to change e.g. buttons count, slider count, device name, etc. It makes firmware(and every device with it) fully compatible with desktop software. You can learn more about it there: [Sound Mixer Firmware](https://github.com/Krystian20857/SoundMixerFirmware)
