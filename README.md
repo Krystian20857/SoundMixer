@@ -12,7 +12,7 @@ Base protorype has been alredy made and files associated with it all available t
 ![Sound Mixer Inside](./images/base_inside.jpg)
 
 ## Software
-Sound Mixer Software is responsible for handling volume, buttons, device, and meny more things. More precise and technical documentation/description is located here: [Sound Mixer Software](https://github.com/Krystian20857/SoundMixerSoftware)
+Sound Mixer Software is responsible for handling volume, buttons, device, and many more things. More precise and technical documentation/description is located here: [Sound Mixer Software](https://github.com/Krystian20857/SoundMixerSoftware)
 
 Now some screenshots: 
 ![Sound Mixer Inside](./images/software_profiles.png)
