@@ -15,6 +15,7 @@ Base protorype has been alredy made and files associated with it all available t
 Sound Mixer Software is responsible for handling volume, buttons, device, and many more things. More precise and technical documentation/description is located here: [Sound Mixer Software](https://github.com/Krystian20857/SoundMixerSoftware)
 
 #### Now some screenshots: 
+![Sound Mixer Software Profiles](https://raw.githubusercontent.com/Krystian20857/SoundMixerSoftware/master/github/images/software_home.png)
 ![Sound Mixer Software Profiles](https://raw.githubusercontent.com/Krystian20857/SoundMixerSoftware/master/github/images/software_profiles.png)
 ![Sound Mixer Software Sliders](https://raw.githubusercontent.com/Krystian20857/SoundMixerSoftware/master/github/images/software_sliders.png)
 ![Sound Mixer Software Buttons](https://raw.githubusercontent.com/Krystian20857/SoundMixerSoftware/master/github/images/software_buttons.png)
